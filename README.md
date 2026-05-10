@@ -130,7 +130,7 @@ Publishing the same version again replaces that version.
 ## Obfuscation Options
 
 Use **Obfuscate before publishing** if the dashboard should obfuscate the Lua before release.
-
+Note **Obfuscator IS BROKEN** it currently throw error when executing obfuscated script.
 Use **Publish raw text** if the code is already obfuscated.
 
 Simple rule:
